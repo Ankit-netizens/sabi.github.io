@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    background-image: url(https://infoversetech.com/assets/0.gif);
+    
+}
+.row{
+    background-color: #FF9C2A;
+    width: 65%;
+    margin: auto;
+    
+   
+}
+
+
+
+button{
+    background-color:whitesmoke;
+    border-radius: 12px;
+    border: none;
+    padding: 7%;
+    margin:5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+button:hover{
+    background-color: whitesmoke;
+}
+.submit{
+    background-color: whitesmoke;
+}
+.submit:hover{
+    background-color: #FF9C2A;
+}
+.loginform {
+
+    background-color: aliceblue;
+    margin: 4%;
+    color: aliceblue;
+    align-items: center;
+    padding: 4%;
+    height: 100%;
+    margin-right:10%;
+}
+label{
+    color: red;
+    
+}
+.registercontent {
+
+   
+    color: aliceblue;
+    align-items: center;
+    padding: 4%;
+    height: 100%;
+    margin: auto;
+    margin-right: 0;
+    margin-left: auto;
+   
+}
+
+.logincontent {
+    color: aliceblue;
+    align-items: center;
+    padding: 4%;
+    height: 100%;
+    margin: auto;
+    margin-right: auto;
+    margin-left: 0;
+   
+}
+.registerform {
+
+    background-color: aliceblue;
+    margin: 4%;
+    color: aliceblue;
+    align-items: center;
+    padding: 4%;
+    height: 100%;
+    margin-left:10%;
+}
